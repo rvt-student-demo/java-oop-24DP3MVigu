@@ -26,6 +26,18 @@
       <scope>test</scope>
     </dependency>
 
+    <dependency>
+    <groupId>org.xerial</groupId>
+    <artifactId>sqlite-jdbc</artifactId>
+    <version>3.53.1.0</version>
+    </dependency>
+
+    <dependency>
+    <groupId>org.projectlombok</groupId>
+    <artifactId>lombok</artifactId>
+    <version>1.18.38</version>
+    </dependency>
+
   </dependencies>
 
   <build>
