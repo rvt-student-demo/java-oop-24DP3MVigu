@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<visi_kursi>
+<Kurss1>
+<nosaukums>DP 2-1</nosaukums>
+<apraksts>DP 2-1 kurss mācas java</apraksts>
+<ilgums>130 stundas</ilgums>
+<limenis>profesionalais </limenis>
+</Kurss1>
+
+<Kurss2>
+<nosaukums>DP 2-2</nosaukums>
+<apraksts>DP 2-2 kurss mācas python</apraksts>
+<ilgums>145 stundas</ilgums>
+<limenis>profesionalais </limenis>
+</Kurss2>
+
+<Kurss3>
+<nosaukums>DP 2-3</nosaukums>
+<apraksts>DP 2-3 kurss mācas javascript</apraksts>
+<ilgums>100 stundas</ilgums>
+<limenis>profesionalais </limenis>
+</Kurss3>
+</visi_kursi>
